@@ -29,3 +29,5 @@ it&rsquo;s easier to auto-deploy a separate repo to Azure. For your team project
 data service, configure your Azure App Service to auto-deploy from the master/main branch
 of your service repo. See the settings for this in the &ldquo;Deployment Center&rdquo;
 on your Azure service dashboard.
+
+Service Root: monopoly-app-spt6-dsecgwbvc7c0ascx.canadacentral-01.azurewebsites.net
